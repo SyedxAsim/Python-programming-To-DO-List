@@ -1,0 +1,2 @@
+TO-DO LIST application. ✨ 
+This tool allows users to efficiently manage their tasks by adding, viewing, updating, and deleting items. The application features a simple and intuitive interface, enabling users to interact with their to-do items through straightforward commands. This project was a great opportunity for me to apply my Python skills and implement essential programming concepts like file handling, data management, and user input validation. I'm excited to share this project as it showcases my ability to build practical, real-world applications with Python. 💫 
